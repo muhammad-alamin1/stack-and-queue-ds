@@ -24,7 +24,6 @@ int main(void)
     push(stack, 10);
     push(stack, 20);
     push(stack, 30);
-
     push(stack, 40);
 
     result = peek(stack);
